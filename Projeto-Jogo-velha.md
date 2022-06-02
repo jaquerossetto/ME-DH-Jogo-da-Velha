@@ -1,7 +1,7 @@
 # Jogo da velha
 ## Integrantes
 ### Jaqueline Rossetto Scagliante
-### NOME COMPLETO
+### Jose Iranildo Gomes Pereira Junior
 
 | -  |  A     | B     | C     |
 | -- | :---:  | :---: | :---: |
