@@ -1,6 +1,6 @@
 # Jogo da velha
 ## Integrantes
-### NOME COMPLETO
+### Jaqueline Rossetto Scagliante
 ### NOME COMPLETO
 
 | -  |  A     | B     | C     |
